@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'mongo'
-require './edgecase'
+require 'edgecase'
 require 'date'
 
 class AboutDataTypes < EdgeCase::Koan
